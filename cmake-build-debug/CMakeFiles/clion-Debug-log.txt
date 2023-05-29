@@ -1,0 +1,2 @@
+Cannot generate 'Debug' into /home/stefan_jiroveanu/PI/proiect/cmake-build-debug
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.

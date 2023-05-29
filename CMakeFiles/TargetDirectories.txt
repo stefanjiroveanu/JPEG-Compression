@@ -1,0 +1,3 @@
+/home/stefan_jiroveanu/PI/proiect/CMakeFiles/DisplayImage.dir
+/home/stefan_jiroveanu/PI/proiect/CMakeFiles/edit_cache.dir
+/home/stefan_jiroveanu/PI/proiect/CMakeFiles/rebuild_cache.dir
